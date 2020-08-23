@@ -9,3 +9,5 @@ while fixed mindset is defined as the one which believes that success becomes fr
 1. accept critisism, be humble and have the spirit.
 2. do not lose you focus. Do not get confused.
 3. do not avoid challenges. **ACE it**.
+
+'get status' No pain, no gain.
