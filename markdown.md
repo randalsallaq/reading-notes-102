@@ -21,4 +21,8 @@ ex: ###### Positivity
 
 
 * Quoting
-to quote some text you can add ` `before the text and after it` ` 
+1. to quote some text you can add ` ` before the text and after it, 
+ ex: `No pains, no gaint` 
+ 
+ 2. to refer to the auther, add > before the name.
+ > benjam
