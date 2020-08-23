@@ -25,4 +25,4 @@ ex: ###### Positivity
  ex: `No pains, no gaint` 
  
  2. to refer to the auther, add > before the name.
- > benjam
+ > benjamin franklin
