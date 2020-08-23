@@ -8,6 +8,10 @@ ex: # Positivity
 ex: ## Positivity
 3. if you want it **more smaller** you can add ######
 ex: ###### Positivity
+
 * text styling
-1. to make some of your content bold you just have to add ** **before the text nad after it**
+1. to make some of your content bold you just have to add ** **before the text and after it**
 2. to make it italic you can add * *before the text and after it*
+3. to make it both bold and italic add *** ***before the text and after it***, and this is to make it more important.
+
+
