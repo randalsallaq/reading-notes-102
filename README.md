@@ -10,5 +10,5 @@ While fixed mindset is defined as the one which believes that success becomes fr
 2. Do not lose you focus. Do not get confused.
 3. Do not avoid challenges. **ACE it**.
 
-`No pain, no gain.` 
-> Anonymos
+`No pains, no gains.` 
+> Benjamin Franklin
