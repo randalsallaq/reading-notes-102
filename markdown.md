@@ -8,7 +8,7 @@ ex: # Positivity
 ex: ## Positivity
 3. if you want it **more smaller** you can add ######
 ex: ###### Positivity
-
+***NOTE***: with spaces
 
 
 * text styling
