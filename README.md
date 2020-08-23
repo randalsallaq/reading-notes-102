@@ -11,3 +11,4 @@ while fixed mindset is defined as the one which believes that success becomes fr
 3. do not avoid challenges. **ACE it**.
 
 `No pain, no gain.` 
+> anonymos
