@@ -13,5 +13,5 @@ ex: ###### Positivity
 1. to make some of your content bold you just have to add ** **before the text and after it** **
 2. to make it italic you can add * *before the text and after it* *
 3. to make it both bold and italic add *** ***before the text and after it*** ***
-
+***NOTE***: without spaces.
 
