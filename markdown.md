@@ -22,7 +22,7 @@ ex: ###### Positivity
 
 * Quoting
 1. to quote some text you can add ` ` before the text and after it, 
- ex: `No pains, no gaint` 
+ ex: `No pains, no gains` 
  
  2. to refer to the auther, add > before the name.
  > benjamin franklin
