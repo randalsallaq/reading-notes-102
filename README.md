@@ -17,4 +17,4 @@ While fixed mindset is defined as the one which believes that success becomes fr
 `No pains, no gains.` 
 > Benjamin Franklin
 
-[i'm an inline-style link] (https://github.com/randalsallaq)
+[github](https://github.com/randalsallaq)
