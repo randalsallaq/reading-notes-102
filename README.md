@@ -1,3 +1,6 @@
+I am Rand alsallaq. I have a bachelors degree in Arabic language and literature. I am interestd in languages in general and in programming. looking always forward to improve myself.
+I am going here to share with you some notes about what we call the growth mindset..
+
 # Reading Notes
 ## GROWTH MINDSET
 There are two main mindsets:
@@ -13,3 +16,5 @@ While fixed mindset is defined as the one which believes that success becomes fr
 
 `No pains, no gains.` 
 > Benjamin Franklin
+
+[i'm an inline-style link] (https://github.com/randalsallaq)
