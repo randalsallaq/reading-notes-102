@@ -1,5 +1,5 @@
 # CSS
-css is basically the thing which is responsible for the presentation of our web pages. and without it our web pages would be dull, as it allows the developers to style there web pages.
+css is basically the thing which is responsible for the presentation of our web pages. and without it our web pages would be dull, as it allows the developers to style thier web pages.
 
 ## things we can control by css:
 - text color
